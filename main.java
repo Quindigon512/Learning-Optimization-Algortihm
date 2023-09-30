@@ -112,6 +112,7 @@ public class Main
             }
         }
 
+        // Output
         System.out.println("\nNumber of Courses Taken: " + totalCourses);
         System.out.println("Total Learning Value: " + totalLearning);
     }
